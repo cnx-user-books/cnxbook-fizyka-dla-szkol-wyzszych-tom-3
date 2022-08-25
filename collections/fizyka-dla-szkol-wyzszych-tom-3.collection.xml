@@ -1,19 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl" authors="OpenStax Poland">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col25571</md:content-id>
-    <md:title>Fizyka dla szkół wyższych. Tom 3</md:title>
+    <md:title>Fizyka dla szk&#xF3;&#x142; wy&#x17C;szych. Tom 3</md:title>
     <md:language>pl</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>bb62933e-f20a-4ffc-90aa-97b36c296c3e</md:uuid>
-<md:slug>fizyka-dla-szkol-wyzszych-tom-3</md:slug>
-</metadata>
+    <md:slug>fizyka-dla-szkol-wyzszych-tom-3</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m65850"/>
     <col:subcollection>
       <md:title>Optyka</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Natura światła</md:title>
+          <md:title>Natura &#x15B;wiat&#x142;a</md:title>
           <col:content>
             <col:module document="m68201"/>
             <col:module document="m68202"/>
@@ -66,10 +67,10 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Fizyka współczesna</md:title>
+      <md:title>Fizyka wsp&#xF3;&#x142;czesna</md:title>
       <col:content>
         <col:subcollection>
-          <md:title>Teoria względności</md:title>
+          <md:title>Teoria wzgl&#x119;dno&#x15B;ci</md:title>
           <col:content>
             <col:module document="m65887"/>
             <col:module document="m68232"/>
@@ -134,7 +135,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Fizyka jądrowa</md:title>
+          <md:title>Fizyka j&#x105;drowa</md:title>
           <col:content>
             <col:module document="m67256"/>
             <col:module document="m67257"/>
@@ -147,7 +148,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Fizyka cząstek elementarnych i kosmologia</md:title>
+          <md:title>Fizyka cz&#x105;stek elementarnych i kosmologia</md:title>
           <col:content>
             <col:module document="m67255"/>
             <col:module document="m68278"/>
