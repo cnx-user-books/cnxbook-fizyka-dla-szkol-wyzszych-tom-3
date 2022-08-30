@@ -608,7 +608,7 @@
       <title>Zadania</title>
       <exercise id="fs-id1170901604725">
         <problem id="fs-id1170902723900">
-          <para id="fs-id1170903028518">Ile energii zostałoby uwolnione, gdyby połączyć sześć atomów wodoru i sześć neutronów, tworząc <m:math display="inline"><m:semantics><m:mmultiscripts><m:mi mathvariant="normal">C</m:mi><m:mprescripts/><m:mn>6</m:mn><m:mn>12</m:mn></m:mmultiscripts><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \tensor*[^12_6]{\mathrm{C}}{}</m:annotation></m:semantics></m:math>?</para>
+          <para id="fs-id1170903028518">Ile energii zostałoby uwolnione, gdyby połączyć sześć atomów wodoru i sześć neutronów, tworząc <m:math display="inline"><m:semantics><m:mmultiscripts><m:mi mathvariant="normal">C</m:mi><m:none/><m:none/><m:mprescripts/><m:mn>6</m:mn><m:mn>12</m:mn></m:mmultiscripts><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \tensor*[^12_6]{\mathrm{C}}{}</m:annotation></m:semantics></m:math>?</para>
         </problem>
         <solution id="fs-id1170902704208">
           <para id="fs-id1170902705395"><m:math display="inline"><m:semantics><m:mrow><m:mn>92,4</m:mn><m:mo>⁢</m:mo><m:mi mathvariant="normal">MeV</m:mi></m:mrow><m:annotation encoding="application/vnd.katalysteducation.mathtex">            \SI{92,4}{\mega\electronvolt}</m:annotation></m:semantics></m:math>.</para>

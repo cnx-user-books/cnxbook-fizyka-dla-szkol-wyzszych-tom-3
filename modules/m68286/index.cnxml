@@ -7,7 +7,7 @@
 <list>
 <item>opisywać główne cechy nadprzewodnika; </item>
 <item>opisywać teorię BCS nadprzewodnictwa;</item>
-<item>wyznaczać krytyczne pole magnetyczne dla <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><semantics><mrow><mi>T</mi><mo>=</mo><mrow><mn>0</mn><mo rspace="verythinmathspace" lspace="">⁢</mo><mi mathvariant="normal">K</mi></mrow></mrow><annotation encoding="application/vnd.katalysteducation.mathtex">            T=\SI{0}{\kelvin}</annotation></semantics></math>, korzystając z danych dla pola magnetycznego; </item>
+<item>wyznaczać krytyczne pole magnetyczne dla <math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"><semantics><mrow><mi>T</mi><mo>=</mo><mrow><mn>0</mn><mo rspace="verythinmathspace">⁢</mo><mi mathvariant="normal">K</mi></mrow></mrow><annotation encoding="application/vnd.katalysteducation.mathtex">            T=\SI{0}{\kelvin}</annotation></semantics></math>, korzystając z danych dla pola magnetycznego; </item>
 <item>obliczać maksymalną siłę elektromotoryczną (SEM) lub prąd dla przewodu, przy których pozostaje on jeszcze nadprzewodzący.</item></list></md:abstract>
   <md:uuid>ff803d2d-b85f-4d90-86c4-a9784f1370de</md:uuid>
 </metadata>
